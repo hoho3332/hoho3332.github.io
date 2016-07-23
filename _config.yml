@@ -6,14 +6,14 @@ description: "Jack's blog,use Jekyll and github pages."
 keywords: "Jack,Jalpc,blog,Jekyll,github,gh-pages"
 
 baseurl: "/"
-url: "http://www.jack003.com"
+url: "https://hoho3332.github.io"
 # url: "http://127.0.0.1:4000"
 
 # author
 author:
   name: 'Jack'
-  first_name: 'Jia'
-  last_name: 'Kun'
+  first_name: 'Nie'
+  last_name: 'Yuxin'
   email: 'jack19890614@gmail.com'
   facebook_username: 'jiakunnj'
   github_username: 'Jack614'
